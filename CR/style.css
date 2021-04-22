@@ -1,0 +1,13 @@
+#reset-btn{
+    display:none;
+    border-bottom: red;
+}
+.second-img{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    width: 208rem;
+    border-radius: red;
+   
+}
+/*-----------------------------------*/
